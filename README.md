@@ -17,6 +17,9 @@
 <a href="">
 <img align="center" src="show_icons=true](https://leetcard.jacoblin.cool/shifat514?theme=nord" />
 </a>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/shifat514?theme=nord)
+
 <a href="https://github.com/shifat514/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=nord&show_icons=true" />
 </a>
