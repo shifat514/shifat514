@@ -29,7 +29,7 @@
 
 <p align="center">   
   <a href="https://leetcode.com/u/shifat514/">
-   <img src="https://leetcard.jacoblin.cool/shifat514?theme=nord">
+   <img height="200" src="https://leetcard.jacoblin.cool/shifat514?theme=nord">
   </a>
 </p>
 
