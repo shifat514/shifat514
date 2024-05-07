@@ -16,4 +16,4 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shifat514)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shifat514)](https://github.com/shifat514/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shifat514&theme=prussian&show_icons=true)](https://github.com/shifat514/github-readme-stats)
