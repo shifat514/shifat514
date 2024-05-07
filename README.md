@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Shifat!</h1>
 <h3 align="center">Frontend Web Developer</h3>
 - 🌱 I’m currently learning **Frontend**
+![](https://komarev.com/ghpvc/?username=shifat514&style=flat-square)
 
 - 💬 Ask me about **Vue Js**
 
