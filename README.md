@@ -20,10 +20,10 @@
 
 <p align="center">  
 <a href="https://leetcode.com/u/shifat514/">
-   <img height="120" src="https://leetcard.jacoblin.cool/shifat514?theme=nord">
+   <img height="140" src="https://leetcard.jacoblin.cool/shifat514?theme=nord">
 </a>
 <a href="https://github.com/shifat514/github-readme-stats">
-  <img height="120" src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=nord&show_icons=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=nord&show_icons=true" />
 </a>
 </p>
 <p align="center">   
