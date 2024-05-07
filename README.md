@@ -18,6 +18,17 @@
 <img align="center" src="show_icons=true](https://leetcard.jacoblin.cool/shifat514?theme=nord" />
 </a>
 
+<p align="center">
+   <table>
+   <h1 align="center">leetcode Stats</h1>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://leetcard.jacoblin.cool/shifat514?theme=nord"></td>
+     </tr>
+   </table>
+</p>
+
+
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shifat514?theme=nord)
 
 <a href="https://github.com/shifat514/github-readme-stats">
