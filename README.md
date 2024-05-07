@@ -19,5 +19,5 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shifat514&theme=nord&show_icons=true)](https://github.com/shifat514/github-readme-stats)
 
 <a href="https://github.com/shifat514/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shifat514&theme=nord&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=nord&show_icons=true" />
 </a>
