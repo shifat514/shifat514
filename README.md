@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shifat Habib</h1>
-<h3 align="center">A frontend developer from Bangladesh</h3>
+<h1 align="center">Shifat Habib</h1>
+<h3 align="center">Frontend Web Developer</h3>
 
 - 🌱 I’m currently learning **Frontend**
 
