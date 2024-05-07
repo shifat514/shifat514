@@ -26,8 +26,6 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=nord&show_icons=true" />
 </a>
 </p>
-</br>
-</br>
 <p align="center">   
    <a href="https://github.com/shifat514/github-readme-stats" align=center>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat514&theme=nord&layout=compact" />
