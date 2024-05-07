@@ -19,7 +19,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shifat514&theme=nord&show_icons=true)](https://github.com/shifat514/github-readme-stats)
 
 <a href="https://github.com/shifat514/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat514&hide_progress=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat514&theme=nord" />
 </a>
 <a href="https://github.com/shifat514/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=nord&show_icons=true" />
