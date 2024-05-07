@@ -20,10 +20,10 @@
 
 <p align="center">  
   <a href="https://github.com/shifat514/github-readme-stats" align=center>
-       <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat514&theme=nord&layout=compact" />
+       <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat514&theme=nord&layout=compact" />
   </a>
   <a href="https://github.com/shifat514/github-readme-stats">
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=nord&show_icons=true" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=nord&show_icons=true" />
   </a>
 </p>
 
