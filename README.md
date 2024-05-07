@@ -1,5 +1,8 @@
 <h1 align="center">Shifat Habib</h1>
 <h3 align="center">Frontend Web Developer</h3>
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![mail][mail-shield]][mail-url]
+[![Facebook][facebook-shield]][facebook-url]
 
 - 🌱 I’m currently learning **Frontend**
 
