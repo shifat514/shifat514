@@ -1,4 +1,4 @@
-<h1 align="center">Hi</h1>
+<h1 align="center">Hi There 👋</h1>
 I'm Shifat Habib, a web developer by day and a tech enthusiast by night. Turning complex problems into managable, easy solutions keeps me going.
 
 Here's a quote I find inspiring </br>
@@ -40,6 +40,9 @@ When I'm not coding, you might find me diving into the latest tech trends 👨�
   <a href="https://github.com/shifat514">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+    <a href="https://x.com/habib_shifat">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>  	
 </p>
 
 ## Stats
