@@ -1,42 +1,61 @@
-<h1 align="center">Hey, I'm Shifat!</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h1 align="center">Hi There 👋</h1>
+I'm Shifat Habib, a web developer by day and a tech enthusiast by night. Turning complex problems into managable, easy solutions keeps me going.
 
-![](https://komarev.com/ghpvc/?username=shifat514&style=for-the-badge)
-<a href="https://www.linkedin.com/in/shifat-habib-919b40159/">
-![.](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="">
-![.](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-</a>
+Here's a quote I find inspiring </br>
+                 **"Start it messy, clean it up as you go,  make it perfect later"** - I try to follow this motto whenever I start procastinating. 
+
+When I'm not coding, you might find me diving into the latest tech trends 👨‍💻 , building custom PCs 🖥️ , or tinkering with new gadgets. I also spend a little bit of time centering div and updating npm packages everyday 🤷‍♂️
 - 🌱 I’m currently learning **Electron, Service Worker, Web Worker**
-  
 - 💬 Ask me about **Vue Js**
 
-- 📫 How to reach me **shifat514@gmail.com**
+## I have worked with
 
-<!--<h3 align="left">Connect with me:</h3>
-
-
-<p align="left">
-<a href="https://www.linkedin.com/in/shifat-habib-919b40159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shifat-habib-919b40159/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
 </p>
--->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+## Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shifat-habib-919b40159/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/shifat.habib.3">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:shifat514@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/shifat514">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+## Stats
 
 <p align="center"> 
   <a href="https://github.com/shifat514/github-readme-stats">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=nord&show_icons=true" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=radical&show_icons=true&hide_border=true" />
   </a>
   <a href="https://github.com/shifat514/github-readme-stats" align=center>
-       <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat514&theme=nord&layout=compact" />
+       <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat514&theme=radical&layout=compact&hide_border=true" />
   </a>
 </p>
 
 <p align="center">   
   <a href="https://leetcode.com/u/shifat514/">
-   <img height="180" src="https://leetcard.jacoblin.cool/shifat514?theme=nord">
+   <img height="180" src="https://leetcard.jacoblin.cool/shifat514?theme=dark">
   </a>
 </p>
 
