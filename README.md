@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋</h1>
+<h1 align="center">Hi</h1>
 I'm Shifat Habib, a web developer by day and a tech enthusiast by night. Turning complex problems into managable, easy solutions keeps me going.
 
 Here's a quote I find inspiring </br>
