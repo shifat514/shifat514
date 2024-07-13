@@ -7,6 +7,7 @@ Here's a quote I find inspiring </br>
 When I'm not coding, you might find me diving into the latest tech trends 👨‍💻 , building custom PCs 🖥️ , or tinkering with new gadgets. I also spend a little bit of time centering div and updating npm packages everyday 🤷‍♂️
 - 🌱 I’m currently learning **Electron, Service Worker, Web Worker**
 - 💬 Ask me about **Vue Js**
+- You can find about my work and projects here https://shifathabib.pages.dev/
 
 ## I have worked with
 
