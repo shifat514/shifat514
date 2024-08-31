@@ -5,7 +5,7 @@ Here's a quote I find inspiring </br>
                  **"Start it messy, clean it up as you go,  make it perfect later"** - I try to follow this motto whenever I start procastinating. 
 
 When I'm not coding, you might find me diving into the latest tech trends 👨‍💻 , building custom PCs 🖥️ , or tinkering with new gadgets. I also spend a little bit of time centering div and updating npm packages everyday 🤷‍♂️
-- 🌱 I’m currently learning **Electron, Service Worker, Web Worker**
+- 🌱 I’m currently learning **Electron**
 - 💬 Ask me about **Vue Js**
 - You can find about my work and projects here https://shifathabib.pages.dev/
 
