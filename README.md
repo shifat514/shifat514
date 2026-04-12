@@ -22,15 +22,6 @@ Currently working on **Zeda CTMS** — a Clinical Trial Management System used b
 
 ---
 
-### 📊 GitHub Stats
-
-[<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=default&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat514&theme=default&layout=compact&hide_border=true" height="150" />
-</p>](https://streak-stats.demolab.com?user=shifat514&theme=default&hide_border=true)
-
----
-
 ### 🧩 LeetCode
 
 [![LeetCode](https://leetcard.jacoblin.cool/shifat514?theme=light&font=baloo_2&ext=heatmap)](https://leetcode.com/u/shifat514/)
