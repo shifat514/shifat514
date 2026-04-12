@@ -24,10 +24,10 @@ Currently working on **Zeda CTMS** — a Clinical Trial Management System used b
 
 ### 📊 GitHub Stats
 
-<p align="left">
+[<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=default&show_icons=true&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat514&theme=default&layout=compact&hide_border=true" height="150" />
-</p>
+</p>](https://streak-stats.demolab.com?user=shifat514&theme=default&hide_border=true)
 
 ---
 
