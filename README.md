@@ -1,70 +1,45 @@
-<h1 align="center">Hi There 👋</h1>
-I'm Shifat Habib, a web developer by day and a tech enthusiast by night. Turning complex problems into managable, easy solutions keeps me going.
+# Hi, I'm Shifat 👋
 
-Here's a quote I find inspiring </br>
-                 **"Start it messy, clean it up as you go,  make it perfect later"** - I try to follow this motto whenever I start procastinating. 
+Frontend Engineer building complex web interfaces for healthcare and fintech products. Vue.js specialist with a strong eye for design and UX.
 
-When I'm not coding, you might find me diving into the latest tech trends 👨‍💻 , building custom PCs 🖥️ , or tinkering with new gadgets. I also spend a little bit of time centering div and updating npm packages everyday 🤷‍♂️
-- 🌱 I’m currently learning **Electron**
-- 💬 Ask me about **Vue Js**
-- You can find about my work and projects here https://shifathabib.pages.dev/
+Currently working on **Zeda CTMS** — a Clinical Trial Management System used by global healthcare clients.
 
-## I have worked with
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+### 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5A03?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=default&show_icons=true&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat514&theme=default&layout=compact&hide_border=true" height="150" />
 </p>
 
-## Connect with me
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/shifat-habib-919b40159/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/shifat.habib.3">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:shifat514@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/shifat514">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-    <a href="https://x.com/habib_shifat">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>  	
-</p>
+### 🧩 LeetCode
 
-## Stats
+[![LeetCode](https://leetcard.jacoblin.cool/shifat514?theme=light&font=baloo_2&ext=heatmap)](https://leetcode.com/u/shifat514/)
 
-<p align="center"> 
-  <a href="https://github.com/shifat514/github-readme-stats">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=shifat514&theme=radical&show_icons=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/shifat514/github-readme-stats" align=center>
-       <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat514&theme=radical&layout=compact&hide_border=true" />
-  </a>
-</p>
+---
 
-<p align="center">   
-  <a href="https://leetcode.com/u/shifat514/">
-   <img height="180" src="https://leetcard.jacoblin.cool/shifat514?theme=dark">
-  </a>
-</p>
+### 🤝 Connect
 
-
-
-
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shifathabib.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shifat-habib-919b40159/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shifat514@gmail.com)
