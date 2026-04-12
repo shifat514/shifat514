@@ -1,6 +1,6 @@
 # Hi, I'm Shifat 👋
 
-Frontend Engineer building complex web interfaces for healthcare and fintech products. Vue.js specialist with a strong eye for design and UX.
+Frontend Engineer  with a strong eye for design and UX building complex web interfaces for healthcare and edtech products.
 
 Currently working on **Zeda CTMS** — a Clinical Trial Management System used by global healthcare clients.
 
@@ -9,7 +9,6 @@ Currently working on **Zeda CTMS** — a Clinical Trial Management System used b
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5A03?style=flat-square&logo=astro&logoColor=white)
