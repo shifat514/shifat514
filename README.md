@@ -1,6 +1,6 @@
 # Hi, I'm Shifat 👋
 
-Frontend Engineer  with a strong eye for design and UX building complex web interfaces for healthcare and edtech products.
+Software Engineer  with a strong eye for design and UX building complex web interfaces for healthcare and edtech products.
 
 Currently working on **Zeda CTMS** — a Clinical Trial Management System used by global healthcare clients.
 
